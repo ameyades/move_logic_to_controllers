@@ -1,7 +1,7 @@
 # Move View Logic
 
 ## What?
-
+fpqwiuygdfwqouyiefg
 Last week we pulled data from our database and showed it using ERB in our HTML views. We even took data from a user and put it into our database using forms.
 
 This week we will move logic and SQL queries from the view to the controller and use view helpers for our forms.
